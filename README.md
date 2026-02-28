@@ -78,7 +78,7 @@
 
 # 三、更多细节
 
-如果你对跨位数注入的实现原理感兴趣或者想了解更多细节，请前往我的先知个人社区主页：https://xz.aliyun.com/users/144519/news
+如果你对Beacon级联代理的实现原理感兴趣或者想了解更多细节，请前往我的先知个人社区主页：https://xz.aliyun.com/users/144519/news
 
 我的博客：https://onedays12.github.io/
 
